@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thomas Bruyère</h1>
-<h3 align="center">A student at IMT Atlantique who loves working on projects related to embedded systems</h3>
+<h1 align="center">Bienvenue 👋, je suis Thomas Bruyère</h1>
+<h3 align="center">Étudiant à l'IMT Atlantique, j'adore travailler sur des projets concernant les systèmes embarqués</h3>
 
 - 🌱 I’m currently learning **software development, embedded systems, software testing, intelligent systems**
 
