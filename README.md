@@ -25,7 +25,7 @@
 
 ### 🚀 Mes Projets Phares
 
-* **[Nom de ton projet Arduino/C++](Lien_vers_ton_repo)** : *Une courte phrase expliquant ce que fait le projet et les technos utilisées.*
+* **[Projet Abysse]([https://github.com/Equipe-Pronto/Pronto-Abysse)** : Conception d'un prototype de drone sous-marin, sur lequel j'ai eu l'occasion de produire le software et d'implémenter le système d'asservissement en assiette
 * **[Nom de ton projet Docker/Python](Lien_vers_ton_repo)** : *Une courte phrase expliquant ce que fait le projet.*
 
 ### 📊 Statistiques GitHub
