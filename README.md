@@ -25,8 +25,8 @@
 
 ### 🚀 Mes Projets Phares
 
-* **[Projet Abysse](Pronto-Abysse)** : Conception d'un prototype de drone sous-marin, sur lequel j'ai eu l'occasion de produire le software et d'implémenter le système d'asservissement en assiette
-* **[Rise of the rocket](Rise_of_the_rocket)** : Mini-projet visant à la conception d'une micro-fusée au travers d'ateliers conçus par mes soins, vous pouvez y retrouver les ressources produites
+* **[Projet Abysse](https://github.com/Equipe-Pronto/Pronto-Abysse)** : Conception d'un prototype de drone sous-marin, sur lequel j'ai eu l'occasion de produire le software et d'implémenter le système d'asservissement en assiette
+* **[Rise of the rocket](https://github.com/hazard3045/Rise_of_the_rocket)** : Mini-projet visant à la conception d'une micro-fusée au travers d'ateliers conçus par mes soins, vous pouvez y retrouver les ressources produites
 
 ### 📊 Statistiques GitHub
 
